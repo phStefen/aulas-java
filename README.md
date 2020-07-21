@@ -1,10 +1,9 @@
 # Aulas de Java
 Estes são os repositórios das minhas aulas de Java
 
+<img align="right" src="img/java.png" width="130">
 
 ## Java
-
-<img align="right" src="img/java.png" width="130">
 
 ### Aula 01
 * [Olá Mundo](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-01/OlaMundo)
