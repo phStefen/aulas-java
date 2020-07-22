@@ -15,4 +15,10 @@ Estes são os repositórios das minhas aulas de Java
 * [Contador de Linhas](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-02/ContadorLinhas)
 * [Ano Bissexto](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-02/AnoBissexto)
 
+### Aula 03
+* [Saídas e Entradas](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-03/Leituras)
+* [Frases e Ordenação](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-03/FrasesOrdenadas)
+* [Média Aritimética](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-03/MediaAritimetica)
+* [Fibonacci](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-03/Fibonnaci)
+
 [Meu Perfil](http://phstefen.github.io/)
