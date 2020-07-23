@@ -21,4 +21,16 @@ Estes são os repositórios das minhas aulas de Java
 * [Média Aritimética](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-03/MediaAritimetica)
 * [Fibonacci](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-03/Fibonnaci)
 
+### Aula 03
+* [É Múltiplo de 2?](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-04/Leituras)
+* [É um Triângulo?](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-04/Triangulo)
+* [Par ou Ímpar?](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-04/ParImpar)
+* [Qual é a Pessoa mais Velha?](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-04/PessoaMaisVelha)
+* [Maior, Menor ou Igual?](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-04/Leituras)
+* [Situação do Aluno](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-04/NotasEstudante)
+* [Países](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-04/Paises)
+* [Calculadora Simples](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-04/MultiplicarOuSomar)
+* [Positivo ou Negativo?](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-04/PositivoNegativo)
+* [Calculadora de Fatorial](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-04/Fatorial)
+
 [Meu Perfil](http://phstefen.github.io/)
