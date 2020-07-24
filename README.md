@@ -21,7 +21,7 @@ Estes são os repositórios das minhas aulas de Java
 * [Média Aritimética](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-03/MediaAritimetica)
 * [Fibonacci](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-03/Fibonnaci)
 
-### Aula 03
+### Aula 04
 * [É Múltiplo de 2?](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-04/Leituras)
 * [É um Triângulo?](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-04/Triangulo)
 * [Par ou Ímpar?](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-04/ParImpar)
@@ -32,5 +32,13 @@ Estes são os repositórios das minhas aulas de Java
 * [Calculadora Simples](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-04/MultiplicarOuSomar)
 * [Positivo ou Negativo?](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-04/PositivoNegativo)
 * [Calculadora de Fatorial](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-04/Fatorial)
+
+### Aula 05
+* [Números Quadrados](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-05/ForQuadrado)
+* [Verificador de Ímpares](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-05/DezImpares)
+* [Números entre 1 e 4](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-05/Entre1e4)
+* [Conversor de Temperaturas](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-05/Temperaturas)
+* [Idade em Dias](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-05/IdadeEmDias)
+* [Grenais](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-05/Grenais)
 
 [Meu Perfil](http://phstefen.github.io/)
