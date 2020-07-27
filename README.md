@@ -41,4 +41,8 @@ Estes são os repositórios das minhas aulas de Java
 * [Idade em Dias](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-05/IdadeEmDias)
 * [Grenais](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-05/Grenais)
 
+### Aula 06
+* [Matrizes](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-06/Matrizes)
+* [Cópia de Matrizes](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-06/CopiaMatriz)
+
 [Meu Perfil](http://phstefen.github.io/)
