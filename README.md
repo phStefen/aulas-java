@@ -45,4 +45,8 @@ Estes são os repositórios das minhas aulas de Java
 * [Matrizes](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-06/Matrizes)
 * [Cópia de Matrizes](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-06/CopiaMatriz)
 
+### Aula 07
+* [Manipulação de Strings](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-07/ManipulacaoDeStrings)
+* [Sequência de S](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-07/ValorDeS)
+
 [Meu Perfil](http://phstefen.github.io/)
