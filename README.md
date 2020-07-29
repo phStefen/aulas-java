@@ -38,8 +38,8 @@ Estes são os repositórios das minhas aulas de Java
 * [Verificador de Ímpares](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-05/DezImpares)
 * [Números entre 1 e 4](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-05/Entre1e4)
 * [Conversor de Temperaturas](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-05/Temperaturas)
-* [Idade em Dias](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-05/IdadeEmDias)
-* [Grenais](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-05/Grenais)
+* [Idade em Dias - URI 1020](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-05/IdadeEmDias)
+* [Grenais - URI 1131](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-05/Grenais)
 
 ### Aula 06
 * [Matrizes](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-06/Matrizes)
@@ -47,6 +47,11 @@ Estes são os repositórios das minhas aulas de Java
 
 ### Aula 07
 * [Manipulação de Strings](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-07/ManipulacaoDeStrings)
-* [Sequência de S](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-07/ValorDeS)
+* [Sequência de S - URI 1155](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-07/ValorDeS)
+
+### Aula 08
+* [Função Número ao Quadrado](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-08/AoQuadradoFuncao)
+* [Função Cálculo de Média e Situação do Aluno](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-08/FuncaoMediaSituacao)
+* [Matriz Quadrada - URI 1435](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-08/MatrizQuadrada)
 
 [Meu Perfil](http://phstefen.github.io/)
