@@ -11,7 +11,6 @@ public class LED {
     public static void main(String[] args) {
         int[] x = {6,2,5,5,4,5,6,3,7,6};
         int l=0;
-        
 
         while (l<1 || l>1000){
             System.out.print("Digite quantas Linhas de LEDs: ");
