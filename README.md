@@ -16,3 +16,5 @@ Estes são os repositórios das minhas aulas de Java
 * [Aula 09](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-09)
 * [Aula 10](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-10)
 * [Aula 11](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-11)
+* [Aula 12](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-12)
+* [Aula 13](https://github.com/phStefen/aulas-java/tree/master/projetos/aula-13)
