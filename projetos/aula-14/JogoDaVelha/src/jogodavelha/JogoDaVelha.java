@@ -49,9 +49,9 @@ public class JogoDaVelha {
         coluna = 0;
         
         
-        System.out.println("Vez do Jogador: " + jog);
+        System.out.println("Vez do Jogador: " + jog + "\n");
         while(linha < 1 || linha > 3){
-            System.out.print("\nEscolha a Linha (1,2,3): ");
+            System.out.print("Escolha a Linha (1,2,3): ");
             linha = scan.nextInt();
             
             if(linha < 1 || linha > 3) System.out.println("Linha Inválida!");
@@ -75,7 +75,8 @@ public class JogoDaVelha {
     }
     
     public static void check(){
-        
+        for(int i=0;i<3;i++){
+        }
     }
     
     public static void main(String[] args) {
